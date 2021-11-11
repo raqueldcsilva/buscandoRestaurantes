@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-.env
+.env 
+# .env é onde tá a key do google, por isso vamos omitir, pois é um dado sensível 
 
 # testing
 /coverage
